@@ -22,7 +22,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ),
     install_requires=[
-          'spacy==2.0.0',
+          'spacy>=2.1.1',
           'numpy',
           'unidecode',
 
